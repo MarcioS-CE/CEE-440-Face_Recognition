@@ -47,3 +47,5 @@ def encode_known_faces(
         pickle.dump(name_encodings, f)
 
 encode_known_faces()
+
+# this is not working
